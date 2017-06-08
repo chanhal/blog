@@ -1,5 +1,5 @@
 # Blog list
-I think; therefore,I am.
+
 
 ### [GitHub Pages + Hexo构建博客及问题](./db/1Build_blog_by_GitHub_Pages_Hexo.md)
 2016-01-28
