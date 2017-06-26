@@ -1,4 +1,4 @@
-看图理解ObjectArx中的数据结构
+<center>看图理解ObjectArx中的数据结构</center>
 =============================
 
 
@@ -175,8 +175,6 @@ for (pItr->start(); !pItr->done(); pItr->step())
 
 
 
-
-
 # 附
 
 ### AutoCAD快捷键
@@ -193,7 +191,7 @@ for (pItr->start(); !pItr->done(); pItr->step())
 | Xdlist    |  显示扩展属性(需要安装Express Tools)  |
 | Pu(Purge) |  清理各种东西，包括：块参照 |
 | Regen     |  重新绘图 |
-
+| blockicon |  重建图标 |
 
 
 

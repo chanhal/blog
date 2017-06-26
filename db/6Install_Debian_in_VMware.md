@@ -1,4 +1,4 @@
-VMware安装Debian
+<center>VMware安装Debian</center>
 ================
 
 
