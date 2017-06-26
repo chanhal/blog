@@ -1,4 +1,4 @@
-<center>Blog list</center>
+# Blog list
 
 
 ### [圆弧插入多少点拟合合适？(Ⅱ)(应用)](./db/10Fitting_arc-2.md)

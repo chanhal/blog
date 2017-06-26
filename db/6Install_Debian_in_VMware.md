@@ -1,5 +1,4 @@
-<center>VMware安装Debian</center>
-================
+# VMware安装Debian
 
 
 > 存在以下问题：  

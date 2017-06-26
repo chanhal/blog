@@ -1,5 +1,5 @@
-<center>GitHub Pages + Hexo构建博客及问题</center>
-=================================
+# GitHub Pages + Hexo构建博客及问题
+
 
 > 相信大多数程序猿都知道Github，它除了提供版本控制的服务外，还提供了一个建立博客的功能——GitHub Pages，GitHub服务器的稳定性得到了大家的认可，相信GitHub Pages的稳定性也不会差。
 

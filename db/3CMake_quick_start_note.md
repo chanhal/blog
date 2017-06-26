@@ -1,5 +1,5 @@
-<center>CMake快速上手笔记</center>
-=================
+# CMake快速上手笔记
+
 
 > 前段时间在学习Qgis示例代码时，需要利用CMakeList.txt文件生成工程，生成工程中出现很多错误，想着打开CMakeList.txt看看，为了看懂就顺便学习了CMake的知识。
 
