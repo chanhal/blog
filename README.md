@@ -1,6 +1,9 @@
 # Blog list
 
 
+### [NSIS注册COM组件](./db/11NSIS注册COM组件.md)
+2017-08-04
+
 ### [圆弧插入多少点拟合合适？(Ⅱ)(应用)](./db/10Fitting_arc-2.md)
 2016-11-26
 
