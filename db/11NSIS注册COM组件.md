@@ -1,6 +1,7 @@
-> * 文件:　NSIS注册COM组件.md
-> * 作者:　Hal Chan 
-> * 联系:　halchan@126.com 
+> * 标题:　NSIS注册COM组件.md
+> * 作者:　Hal Chan
+> * 联系:　halchan@126.com  
+> * 时间:　2017-08-04   
 
 
 # NSIS注册COM组件
@@ -22,6 +23,7 @@
   
 ```
 
+
 ## 进程外COM组件注册(exe)
 
 可行方式： 
@@ -33,12 +35,12 @@ ExecWait "$INSTDIR\sys\Support\DistCadEngine.exe /regserver"
 ```
 ;  ExecWait '$INSTDIR\sys18(x64)\tmp.bat'
 ;  nsExec::exec "$INSTDIR\sys18(x64)\tmp.bat" 
-
+```
 
 ## VC注册exe组件可行方式
 
 
-```
+```   
 // csCmdFilePath为bat文件路径
 BOOL RunCmd(CString csCmdFilePath)
 {
@@ -97,6 +99,11 @@ BOOL RunCmd(CString csCmdFilePath)
 
 	return bSuc;
 }
-```
+```   
 
-另外就是，写入bat文件中的路径也要用双引号来防止空格和特殊符号！
+
+### 注意  
+
+* 执行bat时输入的路径需要用双引号来防止空格和特殊符号
+* 写入bat文件中的路径也要用双引号来防止空格和特殊符号
+* 尽量使用muti-byte的方式编码和执行
